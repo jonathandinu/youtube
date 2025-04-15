@@ -6,7 +6,7 @@
 
 | Jupyter | Colab | Video |
 |:---|:--|:--:|
-|[PyTorch for the Impatient or: Deep Learning is just a Bunch of Regressions](notebooks/pytorch_for_the_impatient.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RxT500njL2vYaFF9o0TRTfw1RY5fdzvB)| ![YouTube Video Views](https://img.shields.io/youtube/views/yLKHHiT2nWw) |
+|[PyTorch for the Impatient or: Deep Learning is just a Bunch of Regressions](notebooks/pytorch_for_the_impatient.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RxT500njL2vYaFF9o0TRTfw1RY5fdzvB)| ![YouTube Video Views](https://img.shields.io/youtube/views/yLKHHiT2nWw?style=flat-square) |
 
 #### Copyright Notice
 
