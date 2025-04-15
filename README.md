@@ -1,6 +1,6 @@
 # Code Examples from (and for) Jonathan's Videos
 
-[![Twitter Follow badge](https://img.shields.io/twitter/follow/jonathandinu?color=%231DA1F2&label=%40jonathandinu&style=flat-square)](https://twitter.com/jonathandinu)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jonathandinu?style=social)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCi0Hd3U6xb4V0ApUhAIfu9Q?color=%23FF0000&logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
 
 
