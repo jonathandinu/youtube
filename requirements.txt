@@ -1,0 +1,9 @@
+diffusers[torch]
+transformers 
+torch
+torchvision
+torchaudio
+scikit-image
+matplotlib
+ipywidgets
+ipykernel
