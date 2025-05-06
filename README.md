@@ -19,8 +19,8 @@ The easiest way to get started with the code (videos or not), is to use a cloud 
 ### Local Setup
 
 ```bash
-git clone https://github.com/jonathandinu/programming-generative-ai.git
-cd programming-generative-ai
+git clone https://github.com/jonathandinu/youtube.git
+cd youtube
 ```
 
 Code implemented and tested with **Python 3.10.12** (other versions >=3.8 are likely to work fine but buyer beware...). To install all of the packages used across of the notebooks in a local [virtual environment](https://docs.python.org/3/library/venv.html):
