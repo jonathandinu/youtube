@@ -14,7 +14,7 @@
 
 The easiest way to get started with the code (videos or not), is to use a cloud notebook environment/platform like [Google Colab](https://colab.google/) (or Kaggle, Paperspace, etc.). For convenience I've provided links to the raw Jupyter notebooks for local development, an [NBViewer](https://nbviewer.org/) link if you would like to browse the code without cloning the repo (or you can use the built-in Github viewer), and a Colab link if you would like to interactively run the code without setting up a local development environment (and fighting with CUDA libraries).
 
-> If you find any errors in the code or materials, please open a [Github issue](https://github.com/jonathandinu/programming-generative-ai/issues) or email [errata@jonathandinu.com](mailto:errata@jonathandinu.com).
+> If you find any errors in the code or materials, please open a [Github issue](https://github.com/jonathandinu/youtube/issues) or email [errata@jonathandinu.com](mailto:errata@jonathandinu.com).
 
 ### Local Setup
 
