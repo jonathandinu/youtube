@@ -1,0 +1,6 @@
+.venv
+.vscode
+notebooks/data
+archive
+images
+loras

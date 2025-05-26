@@ -7,3 +7,4 @@ scikit-image
 matplotlib
 ipywidgets
 ipykernel
+ipdb
